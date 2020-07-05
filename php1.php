@@ -1,2 +1,0 @@
-wpx
-handsome
